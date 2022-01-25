@@ -1,0 +1,82 @@
+*{
+    margin:0;
+    padding:0;
+}
+.a
+{ margin:30px;
+  font-size:100px;
+  background-color:rgba(2, 77, 14, 0.5);
+  text-align:center;
+  color:white;
+font-family:sans-serif;
+ }
+ .para
+ { background-color: rgba(198, 238, 211, 0.5);
+   padding:30px;
+   font-family: 'Segoe UI';
+   margin-left:30px;
+   margin-right:30px; }
+   .para p
+   { padding:10px;}
+   .struct
+   { background-color: rgba(198, 238, 211, 0.5);
+    margin-top:20px;
+     margin-left:30px;
+     margin-right:30px;
+    }
+    h2
+    { text-align: center;
+    padding:30px;
+    font-size:50px;
+    color:rgb(2, 51, 21);
+    }
+    .p
+    {margin-left:50px;
+     font-family: 'Segoe UI';}
+     img
+     {margin-left:350px;
+      margin-bottom:20px;}
+     .use
+     { background-color: rgba(198, 238, 211, 0.5);
+       margin-top:20px;
+       margin-left:30px;
+       margin-right:30px;}
+    h3
+    { text-align:center;
+      padding:30px;
+      font-size:50px;
+      color:rgb(2, 51, 21);
+      }
+      p
+      { margin-left:50px;
+        margin-right: 50px;
+        font-family: 'Segoe UI';
+        padding-bottom:30px;
+      }
+      .dis
+      {  text-align: center;
+        margin-top: 50px;
+        font-family: 'Segoe UI';
+        padding-bottom:30px;
+        font-size: 20px; }
+     .type
+        {background-color: rgba(198, 238, 211, 0.5);
+            margin-top:20px;
+            margin-left:30px;
+            margin-right:30px;}
+       h4
+        {text-align:center;
+            padding:30px;
+            font-size:50px;
+            color:rgb(2, 51, 21); 
+        } 
+        .select  
+        {background-color: rgba(198, 238, 211, 0.5);
+            margin-top:20px;
+            margin-left:30px;
+            margin-right:30px;} 
+        h5
+        { text-align:center;
+            padding:30px;
+            font-size:50px;
+            color:rgb(2, 51, 21);}

@@ -1,0 +1,81 @@
+*{margin:0;
+    padding:0;
+    }
+    .a
+    { margin:30px;
+      font-size:100px;
+      background-color:rgba(77, 48, 5, 0.5);
+      text-align:center;
+      color:rgb(255, 255, 255);
+      font-family:sans-serif;
+     }
+     .para
+     { background-color: rgba(247, 212, 179, 0.5);
+       padding:30px;
+       font-family: 'Segoe UI';
+       margin-left:30px;
+       margin-right:30px; }
+       .para p
+       { padding:10px;}
+       .struct
+       { background-color: rgba(247, 212, 179, 0.5);
+        margin-top:20px;
+         margin-left:30px;
+         margin-right:30px;
+        }
+        h2
+        { text-align: center;
+        padding:30px;
+        font-size:50px;
+        color:rgb(51, 31, 2);
+        }
+        .p
+        {margin-left:50px;
+         font-family: 'Segoe UI';}
+         img
+         {margin-left:340px;
+          margin-bottom:20px;}
+         .use
+         { background-color: rgba(247, 212, 179, 0.5);
+           margin-top:20px;
+           margin-left:30px;
+           margin-right:30px;}
+        h3
+        { text-align:center;
+          padding:30px;
+          font-size:50px;
+          color:rgb(51, 31, 2);
+          }
+          p
+          { margin-left:50px;
+            margin-right: 50px;
+            font-family: 'Segoe UI';
+            padding-bottom:30px;
+          }
+          .dis
+          {  text-align: center;
+            margin-top: 50px;
+            font-family: 'Segoe UI';
+            padding-bottom:30px;
+            font-size: 20px; }
+            .data
+            { background-color: rgba(247, 212, 179, 0.5);
+                margin-top:20px;
+                margin-left:30px;
+                margin-right:30px; }
+            h4
+            {text-align: center;
+                padding:30px;
+                font-size:50px;
+                color:rgb(51, 31, 2);}
+            .ver
+            {background-color: rgba(247, 212, 179, 0.5);
+                margin-top:20px;
+                margin-left:30px;
+                margin-right:30px;}
+            h5
+            {text-align: center;
+                padding:30px;
+                font-size:50px;
+                color:rgb(51, 31, 2);}
+           
